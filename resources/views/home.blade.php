@@ -88,7 +88,7 @@
 
                         <div class="col-lg-6">
                             <div class="hero-image">
-                                <img src="{{ asset('images/Men-Premium-T-Shirt.jpg') }}" alt="New arrivals">
+                                <img src="{{ asset('images/Men-premium-T-Shirt.jpg') }}" alt="New arrivals">
                                 <div class="discount-badge">
                                     <h2>50%</h2>
                                     <span>OFF</span>
@@ -249,13 +249,13 @@
                 <div class="combo-card">
                     <div class="combo-image">
                         <span class="offer-badge">30% OFF</span>
-                        <img src="{{ asset('images/combo sky-maroon.webp') }}" alt="Sky and Maroon Combo">
+                        <img src="{{ asset('images/combo Sky-Maroon.webp') }}" alt="Sky and Maroon Combo">
                     </div>
                     <div class="combo-content">
                 <span class="product-category">MEN'S SHIRT COMBO</span>
                 <h5>Sky and Maroon Combo</h5>
                 <div class="product-price"><span class="new-price">₹1099</span> <del>₹1599</del></div>
-                <button type="button" class="add-cart-btn" onclick="addToCart('Sky and Maroon Combo',1099,'images/combo sky-maroon.webp')"><i class="bi bi-cart-plus"></i> Add to Cart</button>
+                <button type="button" class="add-cart-btn" onclick="addToCart('Sky and Maroon Combo',1099,'images/combo Sky-Maroon.webp')"><i class="bi bi-cart-plus"></i> Add to Cart</button>
             </div>
                 </div>
             </div>
@@ -475,13 +475,13 @@
                 <div class="casual-card">
                     <div class="casual-image">
                         <span class="offer-badge">20% OFF</span>
-                        <img src="{{ asset('images/casual men shirt.png') }}" alt="Regular Shirt">
+                       <img src="{{ asset('images/casual Men Shirt.png') }}" alt="Regular Shirt">
                     </div>
                     <div class="casual-content">
                 <span class="product-category">CASUAL SHIRT</span>
                 <h5>Regular Shirt</h5>
                 <div class="product-price"><span class="new-price">₹799</span> <del>₹999</del></div>
-                <button type="button" class="add-cart-btn" onclick="addToCart('Regular Shirt',799,'images/casual men shirt.png')"><i class="bi bi-cart-plus"></i> Add to Cart</button>
+                <button type="button" class="add-cart-btn" onclick="addToCart('Regular Shirt',799,'images/casual Men Shirt.png')"><i class="bi bi-cart-plus"></i> Add to Cart</button>
             </div>
                 </div>
             </div>
