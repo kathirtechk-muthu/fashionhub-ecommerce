@@ -7,6 +7,8 @@ use App\Http\Controllers\CheckoutController;
 use App\Http\Controllers\OrderController;
 
 
+Route::redirect('/', '/home');
+
 Route::get('/home', function () {
     return view('home');
 });
